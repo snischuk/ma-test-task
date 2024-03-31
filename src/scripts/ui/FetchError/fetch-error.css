@@ -1,9 +1,0 @@
-.fetch-error {
-  height: 100vh;
-  padding: 15px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: var(--text-primary);
-  font-size: 36px;
-}
